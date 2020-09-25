@@ -1,0 +1,27 @@
+Stackoverflow.com
+
+O comunitate deschisa oricarei persoane care codeaza. Aici gasesti raspunsuri la intrebarile tale sau poti sa adresezi intrebari daca raspunsuri nu exista deja!
+
+- functia de log in si sign up: exista butoane de "Log in" si "Sign up" pentru crearea contului si logarea cu acele credentiale pe site.
+- buton "About": conduce la o descriere detaliata a site-ului.
+- buton "Products: te duce la 2 optiuni, "for developers" si "for businesses"
+- butonul "For developers": conduce la 3 sectiuni "Public Q&A", "Private Q&A" si "Browse Job"
+- butonul "Public Q&A", ne duce la sectiunea de intrebari publice
+	- aici regasim un buton intitulat "Ask Question" care ne permite noua sa adresam comunitatii orice intrebare avem. Pentru a pune o intrebare trebuie sa fii logat.
+	- un panou cu butoane multiple, "Newest", "Active", "Bountied", "Unanswered", "More" -> "Frequent"; "Votes". Aceste butoane ne filtreaza intrebarile existente in comunitate in functie de criteriile selectate.
+	- un search-bar in partea de sus a paginii unde putem cauta daca exista deja o intrebare asemanatoare care poate sa raspunda nedumeririlor noastre. Cautarea se poate face in functie de: tag-urile intrebarii, autor, cuvinte.
+- in stanga paginii mai regasim urmatoarele cerinte care indeplinesc functiile:
+	- "Home": ne duce la pagina principala.
+	- "Stack Overflow": ne duce la pagina cu intrebari.
+	- "Tags": permite filtrarea intrebarilor in functie de tag-uri.
+	- "Users": permite filtrarea in functie de useri.
+	- "Jobs": ne duce la o pagina unde putem cauta locuri de munca. Aici regasim urmatoarele functionalitati:
+		- un search-bar in care putem introduce job-ul cautat + un search-bar in care introducem locatia 
+		- sub search-bar-uri regasim butoane de filtrare a job-urilor in functie de criteriile dorite: "Remote" (lucru de acasa), "Tech" (tehnologia despre care suntem interesati), "Compensation" (ne permite selectarea intervalului de salariu), "Perks" (ne permite selectarea anumitor avantaje dorite), "Background" (ne permite selectarea nivelului minim si maxim de experienta, rolul in cadrul job-ului si tipul de job), "More" (aici putem selecta anumite features ale job-ului, companiile in cadrul carora vrem sa cautam locuri de munca, companii pe care vrem sa le excludem si industria in care vrem sa cautam)
+		- un buton deasupra search-bar-urilor, "Companies", ne permite sa vedem job-uri disponibile in cadrul firmelor care si-au postat anunturile.
+		- un buton "Why Jobs?" care te conduce la o pagina unde putem cauta job-uri in functie de pozitia ocupata de noi.
+		- un buton "Applications", poate fi accesat doar daca esti logat.
+		- un buton "Developer Story", poate fi accesat doar daca esti logat.
+	- "Companies": ne duce la o pagina unde putem vedea job-uri disponibile la diferite companii care si-au postat pozitiile libere. Aici regasim urmatoarele functionalitati:
+		 - un search-bar in care putem introduce compania cautata + un search-bar in care introducem locatia. 
+		 - sub search-bar-uri regasim butoane de filtrare a companiilor in functie de criteriile dorite: "Remote" (lucru de acasa), "Visa sponsor", "Offers relocation", "Tech" (putem adauga tag-uri pentru filtrarea cautarii noastre).
