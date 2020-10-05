@@ -1,0 +1,8 @@
+Business events:
+	- Create account (user)
+	- Select the category you want to browse (user)
+	- Find answer for the question you have (user)
+	- Ask a question (if the answer isn`t already written) (user)
+	- Answer a question if you know the answer (user)
+	- Search for a job (in the job posting section) (user)
+	- Set an alert for a job that meets your expectations (user)
